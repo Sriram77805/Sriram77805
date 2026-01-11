@@ -22,6 +22,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargava-sriram&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourname)
-[![Gmail](https://img.shields.io/badge/Email-ashish545470@gmail.com-red?logo=gmail)](mailto:ashish545470@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome)](https://sriram-mudrageda-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sriram-mudrageda77805/)
+[![Gmail](https://img.shields.io/badge/Email-ashish545470@gmail.com-red?logo=gmail)](mailto:srirammudrageda0@gmail.com)

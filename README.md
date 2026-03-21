@@ -3,11 +3,12 @@
 > 💡 "The best way to learn something is to build something."
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **MERN Stack**
-- 🔭 I’m working on something **interesting**
-- 🤝 I’m open to collaborate on **Dev Projects**
-- 💬 Ask me about **Web Development** or **Java**
-- ⚡ Fun fact: I love solving DSA problems and building full-stack apps.
+- 🚀 Passionate about Software Development, DevOps, and Full-Stack Engineering
+- 🔭 Building scalable apps and exploring modern cloud & automation tools
+- 🤝 Open to collaborating on innovative software and DevOps projects
+- 💬 Ask me about Full-Stack Development, CI/CD, and system design
+- ⚡ Interested in solving DSA problems and shipping real-world applications
+
 
 ## 🧰 Technologies and Tools I Use
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
@@ -24,4 +25,4 @@
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome)](https://sriram-mudrageda-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sriram-mudrageda77805/)
-[![Gmail](https://img.shields.io/badge/Email-ashish545470@gmail.com-red?logo=gmail)](mailto:srirammudrageda0@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-srirammudrageda0@gmail.com-red?logo=gmail)](mailto:srirammudrageda0@gmail.com)

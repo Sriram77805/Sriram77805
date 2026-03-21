@@ -18,9 +18,9 @@
 ![Express](https://img.shields.io/badge/Framework-Express-black?logo=express)
 
 ## 🧑‍💻 My Stats
-![Bhargava's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargava-sriram&show_icons=true&theme=radical)
+![Bhargava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sriram77805&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargava-sriram&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram77805&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome)](https://sriram-mudrageda-portfolio.vercel.app/)

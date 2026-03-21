@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhargava Sriram!
+# 👋 Hi, I'm Bhargava Phani Sriram!
 
 > 💡 "The best way to learn something is to build something."
 
